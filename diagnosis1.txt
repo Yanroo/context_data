@@ -1,0 +1,24 @@
+1. Persistent Headache
+Patient: "Doctor, I've had a headache that's persisted for a few days. Should I be concerned about this?"
+
+Doctor: "Persistent headaches can be caused by a variety of issues, ranging from stress to more serious conditions. Can you describe the headache to me? Is it localized in one spot or all over? Is it throbbing or constant?"
+
+2. Sharp Chest Pain
+Patient: "I'm experiencing sharp chest pain that comes and goes. Could this be heart-related?"
+
+Doctor: "Chest pain should always be taken seriously. When does the pain occur? Is it related to physical activity? Are there any other symptoms like shortness of breath, nausea, or dizziness?"
+
+3. Persistent Fatigue
+Patient: "I've been feeling very fatigued lately even with sufficient sleep. Could there be an underlying issue?"
+
+Doctor: "Persistent fatigue can be a symptom of many conditions, such as anemia, thyroid issues, or even depression. Have you noticed any other changes recently, such as changes in your mood, appetite, or weight?"
+
+4. Difficulty Breathing
+Patient: "I've been having difficulty breathing after minimal physical exertion. What could be causing this?"
+
+Doctor: "Difficulty in breathing could indicate a lung or heart condition, or even severe allergies. Have you noticed any pattern? Is it worse during certain times of day or in certain locations? Any chest pain or wheezing?"
+
+7. Vision Changes
+Patient: "I've noticed some changes in my vision, such as blurriness and seeing spots. What could be the reason for this?"
+
+Doctor: "Changes in vision can indicate a number of eye conditions, such as cataracts or age-related macular degeneration. It could also be a sign of other health problems, like diabetes or high blood pressure. Have you experienced any eye pain or headaches? Has the change been sudden or gradual?"
